@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func forLoops() {
 	// var counter = 1
 	// for counter <= 10 {
 	// 	fmt.Println("Perulangan Ke", counter)
